@@ -1,4 +1,4 @@
-package kcs;
+package kcs.config;
 
 import com.theokanning.openai.service.OpenAiService;
 import org.springframework.beans.factory.annotation.Value;
